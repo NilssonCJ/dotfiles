@@ -22,6 +22,7 @@ default_roles:
   - lazydocker
   - lazygit
   - neovim
+  - slack
   - twingate
   - pulumi
   - kubectl
@@ -29,12 +30,15 @@ default_roles:
   - postman
   - visual-studio-code
   - smbclient
+  - discord
   - aws-cli
+  - spotify
   - httpie
   - nodejs
   - go
   - datagrip
   - drone
   - jsonnet
+  - notion-app
   - terraform
   - azure-cli
